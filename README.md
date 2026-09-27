@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:1B2432,100:0F1115&height=230&section=header&text=Ganesan%20G&fontSize=52&fontColor=F2B441&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20Intern%20%C2%B7%20Full-Stack%20and%20AI%20Systems&descAlignY=58&descSize=18&descColor=6FD6C4"/>
 
@@ -24,7 +24,7 @@
 
 ## 👋 About
 
-I'm a **pre-final year Computer Science student at Rajalakshmi Engineering College, Chennai**, currently working as a **Software Development Engineer Intern at Firstsource**.
+I''m a **pre-final year Computer Science student at Rajalakshmi Engineering College, Chennai**, currently working as a **Software Development Engineer Intern at Firstsource**.
 
 I build software end-to-end — from problem definition to deployment — with a focus on **full-stack development, backend engineering, AI-powered applications, and cloud infrastructure**. At Firstsource, I work on AI agents, enterprise full-stack apps, multi-agent systems, workflow automation, and Azure deployments.
 
@@ -43,17 +43,17 @@ Ask me about         →  Full-stack dev, AI agents, backend systems
 <tr>
 <td width="50%" valign="top">
 
-**Education** — B.E. Computer Science, Rajalakshmi Engineering College
-**Graduating** — 2027
-**Role** — SDE Intern @ Firstsource *(Dec 2025 – Present)*
+**Education** — B.E. Computer Science, Rajalakshmi Engineering College  
+**Graduating** — 2027  
+**Role** — SDE Intern @ Firstsource *(Dec 2025 – Present)*  
 **Location** — Chennai, India
 
 </td>
 <td width="50%" valign="top">
 
-**Focus** — Full-Stack Development & AI Applications
-**Cloud** — Microsoft Azure
-**Hackathon** — SIH Finalist 2026
+**Focus** — Full-Stack Development & AI Applications  
+**Cloud** — Microsoft Azure  
+**Hackathon** — SIH Finalist 2026  
 **Prior** — SIH Top 100, 2025
 
 </td>
@@ -66,85 +66,20 @@ Ask me about         →  Full-stack dev, AI agents, backend systems
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganesan33&show_icons=true&hide_border=true&bg_color=0F1115&title_color=F2B441&icon_color=6FD6C4&text_color=C9D1D9&ring_color=F27D6F"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganesan33&show_icons=true&hide_border=true&bg_color=0F1115&title_color=F2B441&icon_color=6FD6C4&text_color=C9D1D9&ring_color=F27D6F&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesan33&layout=compact&hide_border=true&bg_color=0F1115&title_color=F2B441&text_color=C9D1D9&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesan33&hide_border=true&background=0F1115&stroke=1B2432&ring=F2B441&fire=F27D6F&currStreakLabel=6FD6C4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6b7280"/>
+<img src="https://streak-stats.demolab.com/?user=ganesan33&hide_border=true&background=0F1115&stroke=1B2432&ring=F2B441&fire=F27D6F&currStreakLabel=6FD6C4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6b7280"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ganesan33&bg_color=0F1115&color=6FD6C4&line=F2B441&point=F27D6F&area=true&area_color=1B2432&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ganesan33&bg_color=0F1115&color=6FD6C4&line=F2B441&point=F27D6F&area=true&area_color=1B2432&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
-> Stat cards render live from GitHub's public API — numbers update automatically as the repos grow.
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://ghchart.rshah.org/F2B441/ganesan33" alt="Ganesan's GitHub contribution chart"/>
-
-</div>
-
-<details>
-<summary><b>🐍 Add the animated contribution snake (one-time setup)</b></summary>
-<br/>
-
-GitHub doesn't generate this automatically — it needs a small Action running in your profile repo (`ganesan33/ganesan33`) that redraws your contribution graph as a snake eating its own commits, once a day.
-
-1. In your profile repo, create `.github/workflows/snake.yml` with:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 2 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: ganesan33
-          outputs: |
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake-light.svg?palette=github-light
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Push it once (or run it manually from the Actions tab).
-3. After it runs, add this to your README:
-
-```md
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganesan33/ganesan33/output/dist/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganesan33/ganesan33/output/dist/snake-light.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ganesan33/ganesan33/output/dist/snake-dark.svg"/>
-</picture>
-```
-
-It'll start blank until the first Action run populates the `output` branch — that's expected.
-
-</details>
+> Stat cards render live from GitHub''s public API — numbers update automatically as the repos grow.
 
 <br/>
 
@@ -153,6 +88,20 @@ It'll start blank until the first Action run populates the `output` branch — t
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ganesan33&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganesan33/ganesan33/output/dist/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganesan33/ganesan33/output/dist/snake-light.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ganesan33/ganesan33/output/dist/snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -182,7 +131,7 @@ DevOps / CI-CD           ████████████░░░░░░�
 
 ## 🤖 AI / ML Focus
 
-I build AI that's woven into real software systems — not bolted on as a demo.
+I build AI that''s woven into real software systems — not bolted on as a demo.
 
 | Area | Experience |
 |---|---|
@@ -255,7 +204,7 @@ Real-time communication platform built around assistive technology.
 
 ## 💼 Experience
 
-**Software Development Engineer Intern** — Firstsource
+**Software Development Engineer Intern** — Firstsource  
 *December 2025 – Present*
 
 - 🤖 Built AI agents for interview automation, personal assistance, daily news, and tutoring using **Lyzr AI**
@@ -306,7 +255,7 @@ Learning how systems work internally · Designing practical applications · Expe
 
 <br/>
 
-## 🤝 Let's Connect
+## 🤝 Let''s Connect
 
 Interested in `Software Engineering` · `Full-Stack Dev` · `AI Applications` · `Backend Systems` · `Cloud` · `Hackathons` · `Open Source`
 
@@ -323,3 +272,47 @@ Interested in `Software Engineering` · `Full-Stack Dev` · `AI Applications` ·
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:1B2432,100:0F1115&height=130&section=footer"/>
 
 </div>
+
+---
+
+## 🐍 How to Enable the Snake Animation
+
+The contribution snake above needs a one-time GitHub Actions setup:
+
+1. Create `.github/workflows/snake.yml` in this repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ganesan33
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Push it, or trigger manually from the **Actions** tab.
+3. The snake will appear automatically after the first run populates the `output` branch.
