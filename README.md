@@ -66,10 +66,10 @@ Ask me about         →  Full-stack dev, AI agents, backend systems
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=ganesan33&show_icons=true&hide_border=true&bg_color=0F1115&title_color=F2B441&icon_color=6FD6C4&text_color=C9D1D9&ring_color=F27D6F&count_private=true"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ganesan33&layout=compact&hide_border=true&bg_color=0F1115&title_color=F2B441&text_color=C9D1D9&langs_count=8"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=ganesan33&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0F1115&title_color=F2B441&icon_color=6FD6C4&text_color=C9D1D9&ring_color=F27D6F&count_private=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ganesan33&layout=compact&hide_border=true&bg_color=0F1115&title_color=F2B441&text_color=C9D1D9&langs_count=8"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=ganesan33&hide_border=true&background=0F1115&stroke=1B2432&ring=F2B441&fire=F27D6F&currStreakLabel=6FD6C4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6b7280"/>
 
@@ -103,15 +103,13 @@ Ask me about         →  Full-stack dev, AI agents, backend systems
 <tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=azure,docker,git,github&theme=dark"/></td></tr>
 </table>
 
-**Proficiency**
-
-```
-Full-Stack Development   ████████████████░░░░  80%
-Backend & APIs           ██████████████████░░  90%
-AI / Agent Systems       ███████████████░░░░░  75%
-Cloud (Azure)            █████████████░░░░░░░  65%
-DevOps / CI-CD           ████████████░░░░░░░░  60%
-```
+| Domain | Focus | Level |
+|:---|:---|:---:|
+| **Backend & APIs** | Microservices, RESTful APIs, Node.js, Django | `90%` |
+| **Full-Stack Development** | React, Next.js, TypeScript, Scalable Web Apps | `80%` |
+| **AI / Agent Systems** | Multi-Agent Workflows, LLM Applications, Lyzr AI | `75%` |
+| **Cloud (Azure)** | Microsoft Azure, Containerization, Cloud Deployments | `65%` |
+| **DevOps / CI-CD** | GitHub Actions, Docker, CI/CD Automation | `60%` |
 
 <br/>
 
