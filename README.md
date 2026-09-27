@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:1B2432,100:0F1115&height=230&section=header&text=Ganesan%20G&fontSize=52&fontColor=F2B441&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20Intern%20%C2%B7%20Full-Stack%20%26%20AI%20Systems&descAlignY=58&descSize=18&descColor=6FD6C4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:1B2432,100:0F1115&height=230&section=header&text=Ganesan%20G&fontSize=52&fontColor=F2B441&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20Intern%20%C2%B7%20Full-Stack%20and%20AI%20Systems&descAlignY=58&descSize=18&descColor=6FD6C4"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=6FD6C4&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;Backend+%26+Cloud+Engineer;AI+Application+Builder;Building+Practical%2C+Production-Grade+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=6FD6C4&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;Backend+and+Cloud+Engineer;AI+Application+Builder;Building+Practical%2C+Production-Grade+Software"/>
 
 <br/><br/>
 
@@ -80,6 +80,81 @@ Ask me about         →  Full-stack dev, AI agents, backend systems
 </div>
 
 > Stat cards render live from GitHub's public API — numbers update automatically as the repos grow.
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/F2B441/ganesan33" alt="Ganesan's GitHub contribution chart"/>
+
+</div>
+
+<details>
+<summary><b>🐍 Add the animated contribution snake (one-time setup)</b></summary>
+<br/>
+
+GitHub doesn't generate this automatically — it needs a small Action running in your profile repo (`ganesan33/ganesan33`) that redraws your contribution graph as a snake eating its own commits, once a day.
+
+1. In your profile repo, create `.github/workflows/snake.yml` with:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ganesan33
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Push it once (or run it manually from the Actions tab).
+3. After it runs, add this to your README:
+
+```md
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganesan33/ganesan33/output/dist/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganesan33/ganesan33/output/dist/snake-light.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ganesan33/ganesan33/output/dist/snake-dark.svg"/>
+</picture>
+```
+
+It'll start blank until the first Action run populates the `output` branch — that's expected.
+
+</details>
+
+<br/>
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ganesan33&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+
+</div>
 
 <br/>
 
