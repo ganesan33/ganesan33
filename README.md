@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:1B2432,100:0F1115&height=230&section=header&text=Ganesan%20G&fontSize=52&fontColor=F2B441&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20Intern%20%C2%B7%20Full-Stack%20and%20AI%20Systems&descAlignY=58&descSize=18&descColor=6FD6C4"/>
 
@@ -24,7 +24,7 @@
 
 ## 👋 About
 
-I''m a **pre-final year Computer Science student at Rajalakshmi Engineering College, Chennai**, currently working as a **Software Development Engineer Intern at Firstsource**.
+I'm a **pre-final year Computer Science student at Rajalakshmi Engineering College, Chennai**, currently working as a **Software Development Engineer Intern at Firstsource**.
 
 I build software end-to-end — from problem definition to deployment — with a focus on **full-stack development, backend engineering, AI-powered applications, and cloud infrastructure**. At Firstsource, I work on AI agents, enterprise full-stack apps, multi-agent systems, workflow automation, and Azure deployments.
 
@@ -79,7 +79,7 @@ Ask me about         →  Full-stack dev, AI agents, backend systems
 
 </div>
 
-> Stat cards render live from GitHub''s public API — numbers update automatically as the repos grow.
+> Stat cards render live from GitHub's public API — numbers update automatically as the repos grow.
 
 <br/>
 
@@ -131,7 +131,7 @@ DevOps / CI-CD           ████████████░░░░░░�
 
 ## 🤖 AI / ML Focus
 
-I build AI that''s woven into real software systems — not bolted on as a demo.
+I build AI that's woven into real software systems — not bolted on as a demo.
 
 | Area | Experience |
 |---|---|
@@ -255,7 +255,7 @@ Learning how systems work internally · Designing practical applications · Expe
 
 <br/>
 
-## 🤝 Let''s Connect
+## 🤝 Let's Connect
 
 Interested in `Software Engineering` · `Full-Stack Dev` · `AI Applications` · `Backend Systems` · `Cloud` · `Hackathons` · `Open Source`
 
@@ -273,46 +273,4 @@ Interested in `Software Engineering` · `Full-Stack Dev` · `AI Applications` ·
 
 </div>
 
----
 
-## 🐍 How to Enable the Snake Animation
-
-The contribution snake above needs a one-time GitHub Actions setup:
-
-1. Create `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 2 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: ganesan33
-          outputs: |
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake-light.svg?palette=github-light
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Push it, or trigger manually from the **Actions** tab.
-3. The snake will appear automatically after the first run populates the `output` branch.
