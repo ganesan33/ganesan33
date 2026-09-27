@@ -1,356 +1,250 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Ganesan%20G&fontSize=48&fontColor=34D399&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=34D399&center=true&vCenter=true&width=850&lines=Software+Development+Engineer+Intern;Full-Stack+Developer;AI+Application+Developer;Backend+Engineer;Building+Practical+Software+Solutions;Always+Learning%2C+Always+Building"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:1B2432,100:0F1115&height=230&section=header&text=Ganesan%20G&fontSize=52&fontColor=F2B441&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20Intern%20%C2%B7%20Full-Stack%20%26%20AI%20Systems&descAlignY=58&descSize=18&descColor=6FD6C4"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Computer%20Science-Student-161B22?style=for-the-badge&logo=computer&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/Graduating-2027-161B22?style=for-the-badge&logo=graduation-cap&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/Location-Chennai%2C%20India-161B22?style=for-the-badge&logo=googlemaps&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/SDE%20Intern-Firstsource-161B22?style=for-the-badge&logo=code&logoColor=34D399"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=6FD6C4&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;Backend+%26+Cloud+Engineer;AI+Application+Builder;Building+Practical%2C+Production-Grade+Software"/>
 
 <br/><br/>
 
-<a href="https://github.com/ganesan33">
-<img src="https://img.shields.io/badge/GitHub-ganesan33-161B22?style=for-the-badge&logo=github&logoColor=34D399"/>
-</a>
-<a href="https://www.linkedin.com/in/ganesan-g-14b1852a2/">
-<img src="https://img.shields.io/badge/LinkedIn-Ganesan%20G-161B22?style=for-the-badge&logo=linkedin&logoColor=34D399"/>
-</a>
-<a href="mailto:ganesanz3tg@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=34D399"/>
-</a>
+<img src="https://img.shields.io/badge/CS_STUDENT-Class_of_2027-1B2432?style=for-the-badge&labelColor=0F1115&color=F2B441"/>
+<img src="https://img.shields.io/badge/SDE_INTERN-Firstsource-1B2432?style=for-the-badge&labelColor=0F1115&color=6FD6C4"/>
+<img src="https://img.shields.io/badge/BASED_IN-Chennai%2C_India-1B2432?style=for-the-badge&labelColor=0F1115&color=F27D6F"/>
+
+<br/><br/>
+
+<a href="https://github.com/ganesan33"><img src="https://img.shields.io/badge/GitHub-ganesan33-0F1115?style=flat-square&logo=github&logoColor=F2B441&labelColor=1B2432"/></a>
+<a href="https://www.linkedin.com/in/ganesan-g-14b1852a2/"><img src="https://img.shields.io/badge/LinkedIn-Ganesan_G-0F1115?style=flat-square&logo=linkedin&logoColor=6FD6C4&labelColor=1B2432"/></a>
+<a href="mailto:ganesanz3tg@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0F1115?style=flat-square&logo=gmail&logoColor=F27D6F&labelColor=1B2432"/></a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 👋 About
 
 I'm a **pre-final year Computer Science student at Rajalakshmi Engineering College, Chennai**, currently working as a **Software Development Engineer Intern at Firstsource**.
 
-My primary focus is on **full-stack development, backend engineering, AI-powered applications, and cloud technologies**. I enjoy building software from **problem definition to implementation and deployment**, with an emphasis on clean architecture and practical, useful user experiences.
+I build software end-to-end — from problem definition to deployment — with a focus on **full-stack development, backend engineering, AI-powered applications, and cloud infrastructure**. At Firstsource, I work on AI agents, enterprise full-stack apps, multi-agent systems, workflow automation, and Azure deployments.
 
-At Firstsource, I work on **AI-powered agents, full-stack enterprise applications, backend integrations, multi-agent systems, workflow automation, and Microsoft Azure deployments**.
+```
+Currently building   →  AI-powered applications & enterprise automation
+Currently learning   →  Advanced backend architecture, cloud engineering
+Currently exploring  →  Multi-agent AI systems, modern LLM applications
+Ask me about         →  Full-stack dev, AI agents, backend systems
+```
 
-Outside of my internship, I build projects across **AI/ML, full-stack web development, real-time communication, and hardware-integrated systems**.
+<br/>
 
-**Current Interests:** `Full-Stack Development` · `Backend Engineering` · `AI Applications` · `Cloud & DevOps` · `Real-Time Systems`
+## 📊 Snapshot
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## ⚡ Quick Profile
+**Education** — B.E. Computer Science, Rajalakshmi Engineering College
+**Graduating** — 2027
+**Role** — SDE Intern @ Firstsource *(Dec 2025 – Present)*
+**Location** — Chennai, India
 
-| | |
-|---|---|
-| 🎓 **Education** | B.E. Computer Science — Rajalakshmi Engineering College |
-| 📅 **Graduation** | 2027 |
-| 💼 **Current Role** | Software Development Engineer Intern — Firstsource |
-| 📍 **Location** | Chennai, India |
-| 🧠 **Primary Focus** | Full-Stack Development & AI Applications |
-| ☁️ **Cloud** | Microsoft Azure |
-| 🏆 **Hackathon** | Smart India Hackathon Finalist — 2026 |
-| 🏅 **Achievement** | Smart India Hackathon Top 100 — 2025 |
+</td>
+<td width="50%" valign="top">
 
----
+**Focus** — Full-Stack Development & AI Applications
+**Cloud** — Microsoft Azure
+**Hackathon** — SIH Finalist 2026
+**Prior** — SIH Top 100, 2025
 
-## 🛠️ Technology Stack
+</td>
+</tr>
+</table>
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark"/></p>
+<br/>
 
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark"/></p>
+## 🧬 GitHub Stats
 
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark"/></p>
+<div align="center">
 
-**Databases**
-<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&theme=dark"/></p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganesan33&show_icons=true&hide_border=true&bg_color=0F1115&title_color=F2B441&icon_color=6FD6C4&text_color=C9D1D9&ring_color=F27D6F"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesan33&layout=compact&hide_border=true&bg_color=0F1115&title_color=F2B441&text_color=C9D1D9&langs_count=8"/>
 
-**Cloud & DevOps**
-<p><img src="https://skillicons.dev/icons?i=azure,docker,git,github&theme=dark"/></p>
+<br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesan33&hide_border=true&background=0F1115&stroke=1B2432&ring=F2B441&fire=F27D6F&currStreakLabel=6FD6C4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6b7280"/>
 
-## 🤖 AI / ML
+<br/>
 
-I'm interested in building **AI-powered applications that integrate intelligence into real software systems** rather than treating AI as an isolated component.
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ganesan33&bg_color=0F1115&color=6FD6C4&line=F2B441&point=F27D6F&area=true&area_color=1B2432&hide_border=true"/>
+
+</div>
+
+> Stat cards render live from GitHub's public API — numbers update automatically as the repos grow.
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<table>
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark"/></td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark"/></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark"/></td></tr>
+<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&theme=dark"/></td></tr>
+<tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=azure,docker,git,github&theme=dark"/></td></tr>
+</table>
+
+**Proficiency**
+
+```
+Full-Stack Development   ████████████████░░░░  80%
+Backend & APIs           ██████████████████░░  90%
+AI / Agent Systems       ███████████████░░░░░  75%
+Cloud (Azure)            █████████████░░░░░░░  65%
+DevOps / CI-CD           ████████████░░░░░░░░  60%
+```
+
+<br/>
+
+## 🤖 AI / ML Focus
+
+I build AI that's woven into real software systems — not bolted on as a demo.
 
 | Area | Experience |
 |---|---|
-| 🤖 AI Applications | AI-powered agents and intelligent applications |
-| 🔗 AI Agents | Lyzr AI agents and multi-agent integrations |
-| 🧠 NLP | Transformer-based text and lyric processing |
-| 🎵 Recommendation Systems | Emotion-aware music recommendation |
-| 😊 Emotion Classification | Multi-class emotion detection |
-| 🔄 Reinforcement Learning | Recommendation improvement through user interactions |
+| 🤖 AI Applications | Agentic apps built on Lyzr AI, deployed in production workflows |
+| 🔗 Multi-Agent Systems | Agent-to-Agent (A2A) communication between Lyzr agents & GitHub Copilot |
+| 🧠 NLP | Transformer-based lyric & text processing |
+| 🎵 Recommendation Systems | Emotion-aware music recommendation engine |
+| 😊 Emotion Classification | Multi-class emotion detection models |
+| 🔄 Reinforcement Learning | Recommendation tuning from live user interaction |
 | 🌍 Multilingual AI | Cross-language lyric emotion detection |
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
-<details open>
-<summary><b>🎵 AI-Powered Emotion-Aware Music Recommendation System</b></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 Emotion-Aware Music Recommender
+AI system that reads song lyrics, detects emotional patterns, and recommends music by mood.
+- Custom emotion classification model
+- Mood-based recommendation engine
+- RL-driven recommendation improvement
+- Multilingual lyric processing
+
+`Node.js` `Express` `Python` `Transformers` `Scikit-learn`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 eduFlow — E-Learning Platform
+Full-stack platform focused on secure auth, course management, and automated delivery.
+- Secure authentication + email verification
+- Course management workflows
+- CI/CD pipeline via Azure DevOps
+
+`React` `Node.js` `Express` `MongoDB` `Azure DevOps`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚌 NFC Bus Tracking System
+Real-time student transportation system pairing web tech with ESP32 + NFC hardware.
+- NFC-based student check-in
+- Live bus & route tracking
+- Seat availability monitoring
+- Real-time push notifications
+
+`React` `Flask` `Firebase` `ESP32` `NFC`
+
+</td>
+<td width="50%" valign="top">
+
+### ♿ ClearComm — Accessible Comms
+Real-time communication platform built around assistive technology.
+- WebRTC video + WebSocket messaging
+- Speech-to-text / text-to-speech
+- Accessibility-first UX
+
+`React` `Node.js` `WebRTC` `WebSockets`
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-An AI-powered music recommendation system that analyzes song lyrics, identifies emotional patterns, and recommends music based on the detected mood.
+## 💼 Experience
 
-**Highlights**
-- 🎯 Custom emotion classification model
-- 🧠 Mood-based recommendation engine
-- 🔄 Reinforcement learning for recommendation improvement
-- 🌍 Multilingual lyric processing
-- 🎵 Supports multiple emotional categories
+**Software Development Engineer Intern** — Firstsource
+*December 2025 – Present*
 
-**Technology:** `Node.js` `Express.js` `Python` `Transformers` `Scikit-learn`
-</details>
+- 🤖 Built AI agents for interview automation, personal assistance, daily news, and tutoring using **Lyzr AI**
+- 🌐 Developed a full-stack exit interview system with **Next.js, Django & PostgreSQL**, including multi-agent integration
+- 🔗 Implemented **Agent-to-Agent (A2A)** communication between Lyzr agents and GitHub Copilot in **Node.js**
+- ⚙️ Improved SharePoint workflows and enterprise process automation
+- ☁️ Deployed and maintained applications on **Microsoft Azure**
+
+`Next.js` `Django` `Node.js` `PostgreSQL` `Lyzr AI` `Azure` `GitHub Copilot`
+
 <br/>
-
-<details>
-<summary><b>📚 eduFlow — Full-Stack E-Learning Platform</b></summary>
-<br/>
-
-A full-stack e-learning platform focused on authentication, course management, secure user workflows, and automated deployment.
-
-**Highlights**
-- 🔐 Secure authentication
-- ✉️ Email verification
-- 📚 Course management
-- 🔄 CI/CD pipeline
-- ☁️ Azure DevOps integration
-
-**Technology:** `React` `Node.js` `Express.js` `MongoDB` `Azure DevOps`
-</details>
-<br/>
-
-<details>
-<summary><b>🚌 Bus Tracking System with NFC</b></summary>
-<br/>
-
-A real-time student transportation system combining web technologies with NFC and ESP32 hardware.
-
-**Highlights**
-- 📡 NFC-based student check-in
-- 🚌 Real-time bus tracking
-- 🗺️ Route and stop monitoring
-- 💺 Seat availability monitoring
-- 🔔 Real-time updates and notifications
-
-**Technology:** `React` `Flask` `Firebase` `ESP32` `NFC`
-</details>
-<br/>
-
-<details>
-<summary><b>♿ ClearComm — Accessible Real-Time Communication</b></summary>
-<br/>
-
-An accessible communication platform designed around real-time communication and assistive technologies.
-
-**Highlights**
-- 🎥 WebRTC communication
-- ⚡ WebSocket-based real-time communication
-- 🎙️ Speech-to-text
-- 🔊 Text-to-speech
-- ♿ Accessibility-focused communication
-
-**Technology:** `React` `Node.js` `WebRTC` `WebSockets`
-</details>
-
----
-
-## 💼 Professional Experience
-
-### Software Development Engineer Intern — Firstsource
-**December 2025 – Present**
-
-Currently working on enterprise software, AI-powered applications, backend integrations, and automation workflows.
-
-- 🤖 Built AI-powered agents for interview automation, personal assistance, daily news, and tutoring using **Lyzr AI**
-- 🌐 Developed a full-stack exit interview system using **Next.js, Django, and PostgreSQL** with multi-agent integration
-- 🔗 Implemented **Agent-to-Agent (A2A)** communication between Lyzr agents and GitHub Copilot using **Node.js**
-- ⚙️ Worked on SharePoint workflow improvements and enterprise process automation
-- ☁️ Deployed and managed applications using **Microsoft Azure**
-
-**Technologies Used:** `Next.js` `Django` `Node.js` `PostgreSQL` `Lyzr AI` `Azure` `GitHub Copilot`
-
----
 
 ## 🏆 Hackathons
 
-<details>
-<summary><b>🇮🇳 Smart India Hackathon — Finalist 2026</b></summary>
+| Event | Result |
+|---|---|
+| Smart India Hackathon 2026 | 🥇 **Finalist** |
+| Smart India Hackathon 2025 | 🏅 **Top 100 teams** |
+
 <br/>
-Advanced to the <b>finalist stage</b> by developing a technology-driven solution for a real-world problem.
-</details>
-<br/>
 
-<details>
-<summary><b>🏅 Smart India Hackathon — Top 100 2025</b></summary>
-<br/>
-Ranked among the <b>Top 100 teams</b> in the national-level hackathon.
-</details>
+## 🧭 How I Build
 
----
+```mermaid
+flowchart TD
+    A[Problem Definition] --> B[Architecture & Tech Choices]
+    B --> C[Development<br/>Frontend + Backend + AI]
+    C --> D[Testing & Integration]
+    D --> E[Deployment · Azure]
+    E --> F[Feedback & Iteration]
+    F --> A
 
-## 🧭 Engineering Journey
-
-```text
-              ┌────────────────────────┐
-              │   Problem Definition    │
-              └────────────┬───────────┘
-                           │
-                           ▼
-              ┌────────────────────────┐
-              │  Architecture & Tech   │
-              │        Choices        │
-              └────────────┬───────────┘
-                           │
-                           ▼
-              ┌────────────────────────┐
-              │      Development       │
-              │ Frontend + Backend +AI │
-              └────────────┬───────────┘
-                           │
-                           ▼
-              ┌────────────────────────┐
-              │  Testing & Integration │
-              └────────────┬───────────┘
-                           │
-                           ▼
-              ┌────────────────────────┐
-              │  Deployment (Azure)    │
-              └────────────────────────┘
+    style A fill:#1B2432,stroke:#F2B441,color:#C9D1D9
+    style B fill:#1B2432,stroke:#6FD6C4,color:#C9D1D9
+    style C fill:#1B2432,stroke:#F27D6F,color:#C9D1D9
+    style D fill:#1B2432,stroke:#F2B441,color:#C9D1D9
+    style E fill:#1B2432,stroke:#6FD6C4,color:#C9D1D9
+    style F fill:#1B2432,stroke:#F27D6F,color:#C9D1D9
 ```
 
----
+> **Build useful software, understand the systems behind it, keep improving.**
 
-## 🔭 Current Focus
+<br/>
 
-```yaml
-current_role:
-  position: Software Development Engineer Intern
-  company: Firstsource
+## 🌱 Beyond Code
 
-primary_focus:
-  - Full-Stack Development
-  - Backend Engineering
-  - AI Applications
-  - Cloud Technologies
+Learning how systems work internally · Designing practical applications · Experimenting with AI · Turning ideas into working products · Collaborating on teams · Competing in hackathons
 
-building:
-  - AI-powered applications
-  - Full-stack platforms
-  - Enterprise automation workflows
-  - Real-time systems
-
-learning:
-  - Advanced backend architecture
-  - Cloud engineering
-  - AI agent systems
-  - Scalable software design
-
-exploring:
-  - Multi-Agent AI
-  - LLM Applications
-  - Modern Web Architecture
-  - Cloud & DevOps
-```
-
----
-
-## 🧩 What I Like Building
-
-<div align="center">
-
-| 🖥️ Full-Stack | ⚙️ Backend | 🤖 AI | ☁️ Cloud |
-|:---:|:---:|:---:|:---:|
-| React | Node.js | AI Agents | Azure |
-| Next.js | Express | NLP | Docker |
-| TypeScript | Django | Recommendations | CI/CD |
-
-</div>
-
----
-
-## 📌 Development Philosophy
-
-> **Build useful software, understand the systems behind it, and keep improving.**
-
-```text
-Understanding the Problem
-          ↓
-Choosing the Right Technology
-          ↓
-Writing Maintainable Code
-          ↓
-Testing & Iterating
-          ↓
-Deploying Real Solutions
-          ↓
-Learning From Feedback
-```
-
----
-
-## 🌱 Beyond Coding
-
-I'm continuously working on improving both my technical and collaborative skills. I enjoy:
-
-- 🧠 Learning how software systems work internally
-- 🏗️ Designing practical applications
-- 🤖 Experimenting with AI technologies
-- 🚀 Turning ideas into working products
-- 🤝 Collaborating with teams
-- 🏆 Participating in hackathons
-- 📚 Learning new technologies through projects
-
----
-
-## 🔗 Explore My Work
-
-<div align="center">
-
-<a href="https://github.com/ganesan33?tab=repositories">
-<img src="https://img.shields.io/badge/🚀%20Repositories-Explore%20My%20Projects-34D399?style=for-the-badge"/>
-</a>
-<a href="https://github.com/ganesan33">
-<img src="https://img.shields.io/badge/💻%20GitHub-@ganesan33-161B22?style=for-the-badge&logo=github&logoColor=34D399"/>
-</a>
-
-</div>
-
----
+<br/>
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with people working on:
-
-`Software Engineering` · `Full-Stack Development` · `AI Applications` · `Backend Systems` · `Cloud` · `Hackathons` · `Open Source`
+Interested in `Software Engineering` · `Full-Stack Dev` · `AI Applications` · `Backend Systems` · `Cloud` · `Hackathons` · `Open Source`
 
 <div align="center">
 
-<br/>
-
-<a href="https://github.com/ganesan33">
-<img src="https://img.shields.io/badge/GitHub-View%20Profile-161B22?style=for-the-badge&logo=github&logoColor=34D399"/>
-</a>
-<a href="https://www.linkedin.com/in/ganesan-g-14b1852a2/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=34D399"/>
-</a>
-<a href="mailto:ganesanz3tg@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-161B22?style=for-the-badge&logo=gmail&logoColor=34D399"/>
-</a>
+<a href="https://github.com/ganesan33"><img src="https://img.shields.io/badge/GitHub-View_Profile-0F1115?style=for-the-badge&logo=github&logoColor=F2B441&labelColor=1B2432"/></a>
+<a href="https://www.linkedin.com/in/ganesan-g-14b1852a2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0F1115?style=for-the-badge&logo=linkedin&logoColor=6FD6C4&labelColor=1B2432"/></a>
+<a href="mailto:ganesanz3tg@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0F1115?style=for-the-badge&logo=gmail&logoColor=F27D6F&labelColor=1B2432"/></a>
 
 <br/><br/>
 
-### 💡 Build → Learn → Improve → Repeat
+### Build → Learn → Improve → Repeat
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:1B2432,100:0F1115&height=130&section=footer"/>
 
 </div>
