@@ -66,30 +66,16 @@ Ask me about         →  Full-stack dev, AI agents, backend systems
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganesan33&show_icons=true&hide_border=true&bg_color=0F1115&title_color=F2B441&icon_color=6FD6C4&text_color=C9D1D9&ring_color=F27D6F&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesan33&layout=compact&hide_border=true&bg_color=0F1115&title_color=F2B441&text_color=C9D1D9&langs_count=8"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=ganesan33&show_icons=true&hide_border=true&bg_color=0F1115&title_color=F2B441&icon_color=6FD6C4&text_color=C9D1D9&ring_color=F27D6F&count_private=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ganesan33&layout=compact&hide_border=true&bg_color=0F1115&title_color=F2B441&text_color=C9D1D9&langs_count=8"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=ganesan33&hide_border=true&background=0F1115&stroke=1B2432&ring=F2B441&fire=F27D6F&currStreakLabel=6FD6C4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6b7280"/>
 
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ganesan33&bg_color=0F1115&color=6FD6C4&line=F2B441&point=F27D6F&area=true&area_color=1B2432&hide_border=true&custom_title=Contribution%20Activity"/>
-
 </div>
 
 > Stat cards render live from GitHub's public API — numbers update automatically as the repos grow.
-
-<br/>
-
-## 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ganesan33&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
-</div>
 
 <br/>
 
@@ -98,9 +84,9 @@ Ask me about         →  Full-stack dev, AI agents, backend systems
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganesan33/ganesan33/output/dist/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganesan33/ganesan33/output/dist/snake-light.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ganesan33/ganesan33/output/dist/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganesan33/ganesan33/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganesan33/ganesan33/output/snake-light.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ganesan33/ganesan33/output/snake-dark.svg"/>
 </picture>
 
 </div>
