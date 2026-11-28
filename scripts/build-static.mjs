@@ -8,7 +8,7 @@ const W = 880;
 
 // ── Masthead ────────────────────────────────────────────────────────────────
 function masthead(t) {
-  const H = 262;
+  const H = 282; // 20px of air below the index line; a <br> after an image is unreliable on GitHub
   // A ruler along the top rule: a quiet technical detail, one tick in accent.
   let ticks = '';
   for (let x = 0; x <= W; x += 20) {

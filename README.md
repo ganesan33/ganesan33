@@ -4,8 +4,6 @@
   <img alt="Ganesan G. Software engineer in Chennai, India. SDE intern at Firstsource; B.E. Computer Science at Rajalakshmi Engineering College, class of 2027." src="assets/profile/masthead-light.svg" width="100%">
 </picture>
 
-<br>
-
 I like the unglamorous middle of software: queues, auth boundaries, retries, and the deterministic code that keeps a language model honest. I study Computer Science at Rajalakshmi Engineering College (class of 2027) and work as a software development engineer intern at Firstsource, in Chennai.
 
 **Failure should be a state, not a surprise.** Queues, retries, explicit statuses, workers that can safely run twice.<br>
