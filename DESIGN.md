@@ -23,7 +23,29 @@ How this profile was designed and how it maintains itself. The profile itself is
 
 **C. Engineering workspace (blueprint).** Line-art schematics for every project, a Gantt-style timeline of repositories as activity, blueprint cyan on navy. It's strong on technical credibility but drifts toward the "fake engineering aesthetic" and puts a lot of weight on images that can't be read on a phone.
 
-**Chosen: A, borrowing one idea from C.** The journal direction has the most restraint and holds up best without animation. From C it keeps a single, minimal pipeline schematic per flagship project, because the *shape* of a system is the quickest way to show it was engineered. Everything that must be read (case studies, contact) is real Markdown text: selectable, accessible and legible on mobile.
+**Chosen: A, borrowing one idea from C.** The journal direction has the most restraint and holds up best without animation. From C it keeps a pipeline schematic per flagship project, because the *shape* of a system is the quickest way to show it was engineered.
+
+**Why no skills section.** Profiles of widely respected engineers (simonw, t3dotgg, antfu, and the many, like sindresorhus or gaearon, with no profile README at all) show work, dated output and links. None lists tools, skill levels or stacks. A first version of this page had a tools-by-project matrix; it was cut for the same reason. Stack appears only as chips on the work it was used for.
+
+**Version 2: designed panels.** Version 1 kept case studies as Markdown prose, which read as plain text. Version 2 moves every section into an art-directed SVG panel and keeps Markdown for structure (headings), links and alt text. Legibility on phones, the usual cost of text in images, is solved by giving every panel two compositions (below).
+
+## Components
+
+All drawn by `scripts/build-static.mjs` from `scripts/content.mjs`:
+
+| Panel | Contents |
+|---|---|
+| Hero | name, tagline, spec card, dot-grid texture, principles band |
+| Now | three status cards |
+| Case file | kicker, title, hero metric, labelled pipeline with feedback loop, Problem / Key idea / My part, stack chips |
+| Also | two compact cards |
+| Path | dated milestones, newest first, with a rail and a *now* tick: role, open source, recognition, education |
+| Rhythm | contribution chart (`build-activity.mjs`) |
+| Contact | sign-off card; the image links to email |
+
+**Two layouts per file.** Each SVG contains a `.wide` composition and a `.compact` one. A `max-width: 600px` media query inside the SVG, evaluated against the image's own rendered width, switches to `.compact` on phones: the same viewBox with fewer, larger elements (body ≥ 30px at the drawing scale, about 12px on a 360px screen).
+
+**Diagrams show mechanism.** Every arrow is labelled with what crosses it (`frame`, `findings`, `enqueue`), and the one stage that carries the idea is accented, with its feedback loop drawn (Liveness: 3 frames in a row; Worker: up to 3 tries with backoff).
 
 ## System
 
@@ -32,10 +54,13 @@ How this profile was designed and how it maintains itself. The profile itself is
 | ink | `#E8E5DE` | `#1F2328` |
 | muted | `#8B949E` | `#656D76` |
 | faint (rules) | `#30363D` | `#D0D7DE` |
-| accent | `#F0A04B` | `#B4531A` |
+| panel / panelLine | `#151B23` / `#2A313B` | `#F6F8FA` / `#D8DEE4` |
+| accent | `#F0A04B` | `#A84D17` |
 
-- Serif stack: Iowan Old Style → Palatino Linotype → Palatino → Georgia. Mono stack: ui-monospace → SF Mono → Cascadia Mono → Consolas.
-- The accent marks *one* thing per image: the period after the name, the stage of a pipeline I'd point to first, the busiest week.
+- Type scale (`type` in `theme.mjs`): wide 11 / 12.5 / 15 / 20 / 40 / 56 / 84; compact 24 / 30 / 56 / 88 / 96. Spacing on an 8px unit, 32px panel padding, 24px gutters, 12px radius.
+- Serif stack: Iowan Old Style → Palatino Linotype → Palatino → Georgia. Mono stack: ui-monospace → SF Mono → Cascadia Mono → Consolas. Text wrapping uses conservative glyph-width estimates so no OS font overruns a column.
+- The accent marks *one* thing per panel: the period after the name, the hero metric, the key pipeline stage, the busiest week.
+- Text on panels, including accent text on the tinted key node, meets 4.5:1 in both themes; the light accent was darkened from `#B4531A` to pass on that tint.
 - Every SVG has a `<title>`/`<desc>`, and every `<img>` has descriptive alt text.
 - Text contrast meets WCAG AA on GitHub's dark (`#0d1117`), dimmed (`#22272e`) and light (`#ffffff`) backgrounds. The activity ramp was checked with an ordinal palette validator: one hue, monotone lightness, visible steps, and every active step at least 3:1 against the background (WCAG 1.4.11).
 - Activity is encoded twice (dot size *and* tone), never by colour alone. Images on GitHub can't have tooltips, so the workflow also writes a collapsed table of the same numbers under the chart.
@@ -43,14 +68,17 @@ How this profile was designed and how it maintains itself. The profile itself is
 ## Files
 
 ```
-assets/profile/    masthead (static)
-assets/projects/   pipeline schematics (static)
-assets/activity/   contribution rhythm (regenerated)
-scripts/theme.mjs           shared palette, fonts, SVG wrapper
-scripts/build-static.mjs    masthead and schematics
+assets/profile/    hero, now, path, contact (static)
+assets/projects/   case files and the Also panel (static)
+assets/activity/   contribution rhythm (regenerated daily)
+scripts/content.mjs         every word on the page
+scripts/theme.mjs           tokens and drawing primitives
+scripts/build-static.mjs    static panels + README.md
 scripts/build-activity.mjs  contribution rhythm
 .github/workflows/activity.yml
 ```
+
+README.md is generated; edit `content.mjs` instead.
 
 No dependencies: plain Node 20+.
 
@@ -65,7 +93,7 @@ No dependencies: plain Node 20+.
 
 If any request fails, the script exits before writing, so the last good image stays in place. No personal access token is used or needed. The data is the public view, so private contributions appear only if *Include private contributions* is enabled in your profile settings.
 
-To change copy or colours in the static artwork, edit `scripts/build-static.mjs` or `scripts/theme.mjs` and run:
+To change copy, edit `scripts/content.mjs`; for colours or type, `scripts/theme.mjs`. Then run:
 
 ```sh
 node scripts/build-static.mjs

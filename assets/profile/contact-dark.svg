@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="212" viewBox="0 0 880 212" role="img" aria-labelledby="t d">
+<title id="t">Contact</title>
+<desc id="d">Email: ganesanz3tg@gmail.com. LinkedIn: in/ganesan-g-14b1852a2. Based: Chennai, India. Time: IST · UTC+5:30.</desc>
+<style>
+.serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif}
+.mono{font-family:ui-monospace,'SF Mono','Cascadia Mono',Consolas,'Liberation Mono',Menlo,monospace}
+.compact{display:none}
+@media (max-width:600px){.fine,.wide{display:none}.compact{display:inline}}
+</style>
+<g class="wide"><rect x="0.5" y="0.5" width="879" height="211" rx="12" fill="#151B23" stroke="#2A313B"/><text x="32" y="46" class="mono" font-size="11" letter-spacing="1.6" text-anchor="start" fill="#8B949E">CONTACT</text><text x="32" y="112" class="serif" font-size="48" fill="#E8E5DE">Say hello<tspan fill="#F0A04B">.</tspan></text><text x="32" y="150" class="serif" font-size="17" font-style="italic" fill="#8B949E">Email is the fastest way to reach me.</text><text x="470" y="58" class="mono" font-size="11" letter-spacing="1.6" text-anchor="start" fill="#8B949E">EMAIL</text><text x="848" y="58" class="mono" font-size="13.5" text-anchor="end" fill="#F0A04B">ganesanz3tg@gmail.com</text><line x1="470" y1="71.5" x2="848" y2="71.5" stroke="#2A313B"/><text x="470" y="96" class="mono" font-size="11" letter-spacing="1.6" text-anchor="start" fill="#8B949E">LINKEDIN</text><text x="848" y="96" class="mono" font-size="13.5" text-anchor="end" fill="#E8E5DE">in/ganesan-g-14b1852a2</text><line x1="470" y1="109.5" x2="848" y2="109.5" stroke="#2A313B"/><text x="470" y="134" class="mono" font-size="11" letter-spacing="1.6" text-anchor="start" fill="#8B949E">BASED</text><text x="848" y="134" class="mono" font-size="13.5" text-anchor="end" fill="#E8E5DE">Chennai, India</text><line x1="470" y1="147.5" x2="848" y2="147.5" stroke="#2A313B"/><text x="470" y="172" class="mono" font-size="11" letter-spacing="1.6" text-anchor="start" fill="#8B949E">TIME</text><text x="848" y="172" class="mono" font-size="13.5" text-anchor="end" fill="#E8E5DE">IST · UTC+5:30</text></g><g class="compact"><rect x="0.5" y="0.5" width="879" height="211" rx="12" fill="#151B23" stroke="#2A313B"/>
+<text x="32" y="96" class="serif" font-size="56" fill="#E8E5DE">Say hello<tspan fill="#F0A04B">.</tspan></text>
+<text x="32" y="160" class="mono" font-size="31" fill="#F0A04B">ganesanz3tg@gmail.com</text></g>
+</svg>

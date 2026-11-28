@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="192" viewBox="0 0 880 192" role="img" aria-labelledby="t d">
+<title id="t">Now</title>
+<desc id="d">At Firstsource: LLM agents &amp; A2A. Agent-to-agent integrations and the full-stack apps around them, on Azure. Private work. Upstream: django-modern-rest. A typed, async REST framework for Django. Merged: a CSRF fix for its OpenAPI schema.</desc>
+<style>
+.serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif}
+.mono{font-family:ui-monospace,'SF Mono','Cascadia Mono',Consolas,'Liberation Mono',Menlo,monospace}
+.compact{display:none}
+@media (max-width:600px){.fine,.wide{display:none}.compact{display:inline}}
+</style>
+<g class="wide"><rect x="0.5" y="0.5" width="427" height="191" rx="12" fill="#F6F8FA" stroke="#D8DEE4"/><circle cx="26" cy="36" r="3.5" fill="#A84D17"/><text x="38" y="40" class="mono" font-size="11" letter-spacing="1.6" text-anchor="start" fill="#656D76">AT FIRSTSOURCE</text><text x="22" y="84" class="serif" font-size="23" fill="#1F2328">LLM agents &amp; A2A</text><text x="22" y="116" class="serif" font-size="13.5" fill="#656D76" ><tspan x="22" dy="0">Agent-to-agent integrations and the full-stack apps</tspan><tspan x="22" dy="19.575">around them, on Azure. Private work.</tspan></text><rect x="452.5" y="0.5" width="427" height="191" rx="12" fill="#F6F8FA" stroke="#D8DEE4"/><circle cx="478" cy="36" r="3.5" fill="#A84D17"/><text x="490" y="40" class="mono" font-size="11" letter-spacing="1.6" text-anchor="start" fill="#656D76">UPSTREAM</text><text x="474" y="84" class="serif" font-size="23" fill="#1F2328">django-modern-rest</text><text x="474" y="116" class="serif" font-size="13.5" fill="#656D76" ><tspan x="474" dy="0">A typed, async REST framework for Django. Merged: a</tspan><tspan x="474" dy="19.575">CSRF fix for its OpenAPI schema.</tspan></text></g><g class="compact"><circle cx="10" cy="41" r="7" fill="#A84D17"/><text x="34" y="52" class="serif" font-size="34" fill="#1F2328">LLM agents &amp; A2A</text><circle cx="10" cy="107" r="7" fill="#A84D17"/><text x="34" y="118" class="serif" font-size="34" fill="#1F2328">django-modern-rest</text></g>
+</svg>

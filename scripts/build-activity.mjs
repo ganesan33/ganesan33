@@ -199,7 +199,18 @@ function render(t, days, s, repos) {
     height: H,
     title: 'Contribution rhythm',
     desc: altText(s, repos, range),
-    body: b,
+    // phone layout: the four figures, large; the chart itself is too dense to read at that size
+    body: `<g class="wide">${b}</g><g class="compact">${[
+      [s.total.toLocaleString('en-US'), 'contributions'],
+      [String(s.active), 'active days'],
+      [String(s.longest), 'day streak'],
+      [s.busiest.label.split(' ')[0], 'busiest month'],
+    ]
+      .map(([v, k], i) => {
+        const x = (i % 2) * (W / 2), y = 120 + Math.floor(i / 2) * Math.min(170, (H - 120) / 2);
+        return `<text x="${x}" y="${y}" class="serif" font-size="96" fill="${i ? t.ink : t.accent}">${esc(v)}</text><text x="${x}" y="${y + 40}" class="mono" font-size="24" letter-spacing="1.6" fill="${t.muted}">${esc(k.toUpperCase())}</text>`;
+      })
+      .join('')}</g>`,
   });
 }
 

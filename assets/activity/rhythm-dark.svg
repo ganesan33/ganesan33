@@ -4,9 +4,10 @@
 <style>
 .serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif}
 .mono{font-family:ui-monospace,'SF Mono','Cascadia Mono',Consolas,'Liberation Mono',Menlo,monospace}
-@media (max-width:600px){.fine{display:none}}
+.compact{display:none}
+@media (max-width:600px){.fine,.wide{display:none}.compact{display:inline}}
 </style>
-
+<g class="wide">
 <text x="0" y="14" class="mono" font-size="11" letter-spacing="1.8" fill="#8B949E">CONTRIBUTION RHYTHM</text>
 <text x="880" y="14" class="mono" font-size="11" letter-spacing="1.8" text-anchor="end" fill="#8B949E">NOV 2025 — NOV 2026 · PUBLIC</text>
 <line x1="0" y1="28.5" x2="880" y2="28.5" stroke="#30363D"/><text x="0" y="84" class="serif" font-size="44" fill="#F0A04B">309</text>
@@ -22,5 +23,5 @@
 <rect x="440" y="422" width="113.3" height="3" fill="#8B949E"/>
 <text x="440" y="446" class="mono" font-size="11" fill="#8B949E">17 commits</text><text x="660" y="410" class="mono" font-size="13" fill="#E8E5DE">AcentraHealth</text>
 <rect x="660" y="422" width="33.3" height="3" fill="#8B949E"/>
-<text x="660" y="446" class="mono" font-size="11" fill="#8B949E">5 commits</text>
+<text x="660" y="446" class="mono" font-size="11" fill="#8B949E">5 commits</text></g><g class="compact"><text x="0" y="120" class="serif" font-size="96" fill="#F0A04B">309</text><text x="0" y="160" class="mono" font-size="24" letter-spacing="1.6" fill="#8B949E">CONTRIBUTIONS</text><text x="440" y="120" class="serif" font-size="96" fill="#E8E5DE">70</text><text x="440" y="160" class="mono" font-size="24" letter-spacing="1.6" fill="#8B949E">ACTIVE DAYS</text><text x="0" y="288" class="serif" font-size="96" fill="#E8E5DE">10</text><text x="0" y="328" class="mono" font-size="24" letter-spacing="1.6" fill="#8B949E">DAY STREAK</text><text x="440" y="288" class="serif" font-size="96" fill="#E8E5DE">Oct</text><text x="440" y="328" class="mono" font-size="24" letter-spacing="1.6" fill="#8B949E">BUSIEST MONTH</text></g>
 </svg>
