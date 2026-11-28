@@ -73,7 +73,7 @@ The framework's OpenAPI schema declared the CSRF cookie but not the header Djang
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity/rhythm-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity/rhythm-light.svg">
-  <img alt="Contribution rhythm, Nov 2025 — Nov 2026: 307 public contributions over 69 active days; longest streak 10 days; busiest month Oct 2026 with 77. Commits by repository: practice (27), eduflow (22), backend- (17), AcentraHealth (5)." src="assets/activity/rhythm-light.svg" width="100%">
+  <img alt="Contribution rhythm, Nov 2025 — Nov 2026: 308 public contributions over 70 active days; longest streak 10 days; busiest month Oct 2026 with 77. Commits by repository: practice (27), eduflow (22), backend- (17), AcentraHealth (5)." src="assets/activity/rhythm-light.svg" width="100%">
 </picture>
 
 <sub>Bars are weekly totals; dots are days. Drawn from GitHub's public contribution calendar and REST API by <a href="scripts/build-activity.mjs">scripts/build-activity.mjs</a> and redrawn daily by a workflow.</sub>
@@ -96,7 +96,7 @@ The framework's OpenAPI schema declared the CSRF cookie but not the header Djang
 | Aug 2026 | 8 | 5 |
 | Sep 2026 | 73 | 9 |
 | Oct 2026 | 77 | 16 |
-| Nov 2026 | 14 | 8 |
+| Nov 2026 | 15 | 9 |
 
 | Repository | Commits, last 12 months |
 |:--|--:|
