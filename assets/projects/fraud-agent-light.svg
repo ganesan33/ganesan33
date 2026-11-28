@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="112" viewBox="0 0 880 112" role="img" aria-labelledby="t d">
+<title id="t">Fraud investigation agent: pipeline</title>
+<desc id="d">Five stages: TigerGraph multi-hop traversal, evidence normalisation into case-scoped facts, LLM reasoning, deterministic R1 to R10 policy rules (highlighted), and a verdict with SAR workflow and audit trail.</desc>
+<style>
+.serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif}
+.mono{font-family:ui-monospace,'SF Mono','Cascadia Mono',Consolas,'Liberation Mono',Menlo,monospace}
+@media (max-width:600px){.fine{display:none}}
+</style>
+<line x1="0" y1="0.5" x2="880" y2="0.5" stroke="#D0D7DE"/>
+<text x="0" y="30" class="mono" font-size="11" letter-spacing="1.4" fill="#656D76">01</text>
+<line x1="0" y1="42.5" x2="150" y2="42.5" stroke="#D0D7DE" stroke-width="1"/>
+<text x="0" y="70" class="mono" font-size="14.5" fill="#1F2328">Graph traversal</text>
+<text x="0" y="95" class="serif" font-size="15" font-style="italic" fill="#656D76">TigerGraph, multi-hop</text><path d="M160 38.5 l5 4 l-5 4" fill="none" stroke="#656D76"/>
+<text x="176" y="30" class="mono" font-size="11" letter-spacing="1.4" fill="#656D76">02</text>
+<line x1="176" y1="42.5" x2="326" y2="42.5" stroke="#D0D7DE" stroke-width="1"/>
+<text x="176" y="70" class="mono" font-size="14.5" fill="#1F2328">Evidence</text>
+<text x="176" y="95" class="serif" font-size="15" font-style="italic" fill="#656D76">case-scoped facts</text><path d="M336 38.5 l5 4 l-5 4" fill="none" stroke="#656D76"/>
+<text x="352" y="30" class="mono" font-size="11" letter-spacing="1.4" fill="#656D76">03</text>
+<line x1="352" y1="42.5" x2="502" y2="42.5" stroke="#D0D7DE" stroke-width="1"/>
+<text x="352" y="70" class="mono" font-size="14.5" fill="#1F2328">LLM reasoning</text>
+<text x="352" y="95" class="serif" font-size="15" font-style="italic" fill="#656D76">proposes, explains</text><path d="M512 38.5 l5 4 l-5 4" fill="none" stroke="#656D76"/>
+<text x="528" y="30" class="mono" font-size="11" letter-spacing="1.4" fill="#B4531A">04</text>
+<line x1="528" y1="42.5" x2="678" y2="42.5" stroke="#B4531A" stroke-width="2"/>
+<text x="528" y="70" class="mono" font-size="14.5" fill="#B4531A">Policy R1–R10</text>
+<text x="528" y="95" class="serif" font-size="15" font-style="italic" fill="#656D76">deterministic, decides</text><path d="M688 38.5 l5 4 l-5 4" fill="none" stroke="#656D76"/>
+<text x="704" y="30" class="mono" font-size="11" letter-spacing="1.4" fill="#656D76">05</text>
+<line x1="704" y1="42.5" x2="854" y2="42.5" stroke="#D0D7DE" stroke-width="1"/>
+<text x="704" y="70" class="mono" font-size="14.5" fill="#1F2328">Verdict + SAR</text>
+<text x="704" y="95" class="serif" font-size="15" font-style="italic" fill="#656D76">with audit trail</text>
+</svg>

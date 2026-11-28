@@ -1,260 +1,118 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:1B2432,100:0F1115&height=230&section=header&text=Ganesan%20G&fontSize=52&fontColor=F2B441&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20Intern%20%C2%B7%20Full-Stack%20and%20AI%20Systems&descAlignY=58&descSize=18&descColor=6FD6C4"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=6FD6C4&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;Backend+and+Cloud+Engineer;AI+Application+Builder;Building+Practical%2C+Production-Grade+Software"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CS_STUDENT-Class_of_2027-1B2432?style=for-the-badge&labelColor=0F1115&color=F2B441"/>
-<img src="https://img.shields.io/badge/SDE_INTERN-Firstsource-1B2432?style=for-the-badge&labelColor=0F1115&color=6FD6C4"/>
-<img src="https://img.shields.io/badge/BASED_IN-Chennai%2C_India-1B2432?style=for-the-badge&labelColor=0F1115&color=F27D6F"/>
-
-<br/><br/>
-
-<a href="https://github.com/ganesan33"><img src="https://img.shields.io/badge/GitHub-ganesan33-0F1115?style=flat-square&logo=github&logoColor=F2B441&labelColor=1B2432"/></a>
-<a href="https://www.linkedin.com/in/ganesan-g-14b1852a2/"><img src="https://img.shields.io/badge/LinkedIn-Ganesan_G-0F1115?style=flat-square&logo=linkedin&logoColor=6FD6C4&labelColor=1B2432"/></a>
-<a href="mailto:ganesanz3tg@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0F1115?style=flat-square&logo=gmail&logoColor=F27D6F&labelColor=1B2432"/></a>
-
-</div>
-
-<br/>
-
-## 👋 About
-
-I'm a **pre-final year Computer Science student at Rajalakshmi Engineering College, Chennai**, currently working as a **Software Development Engineer Intern at Firstsource**.
-
-I build software end-to-end — from problem definition to deployment — with a focus on **full-stack development, backend engineering, AI-powered applications, and cloud infrastructure**. At Firstsource, I work on AI agents, enterprise full-stack apps, multi-agent systems, workflow automation, and Azure deployments.
-
-```
-Currently building   →  AI-powered applications & enterprise automation
-Currently learning   →  Advanced backend architecture, cloud engineering
-Currently exploring  →  Multi-agent AI systems, modern LLM applications
-Ask me about         →  Full-stack dev, AI agents, backend systems
-```
-
-<br/>
-
-## 📊 Snapshot
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Education** — B.E. Computer Science, Rajalakshmi Engineering College  
-**Graduating** — 2027  
-**Role** — SDE Intern @ Firstsource *(Dec 2025 – Present)*  
-**Location** — Chennai, India
-
-</td>
-<td width="50%" valign="top">
-
-**Focus** — Full-Stack Development & AI Applications  
-**Cloud** — Microsoft Azure  
-**Hackathon** — SIH Finalist 2026  
-**Prior** — SIH Top 100, 2025
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🧬 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=ganesan33&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0F1115&title_color=F2B441&icon_color=6FD6C4&text_color=C9D1D9&ring_color=F27D6F&count_private=true"/>
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ganesan33&layout=compact&hide_border=true&bg_color=0F1115&title_color=F2B441&text_color=C9D1D9&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=ganesan33&hide_border=true&background=0F1115&stroke=1B2432&ring=F2B441&fire=F27D6F&currStreakLabel=6FD6C4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6b7280"/>
-
-</div>
-
-> Stat cards render live from GitHub's public API — numbers update automatically as the repos grow.
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganesan33/ganesan33/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganesan33/ganesan33/output/snake-light.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ganesan33/ganesan33/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/masthead-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile/masthead-light.svg">
+  <img alt="Ganesan G. Software engineer in Chennai, India. SDE intern at Firstsource; B.E. Computer Science at Rajalakshmi Engineering College, class of 2027." src="assets/profile/masthead-light.svg" width="100%">
 </picture>
 
-</div>
+<br>
 
-<br/>
+I like the unglamorous middle of software: queues, auth boundaries, retries, and the deterministic code that keeps a language model honest. I study Computer Science at Rajalakshmi Engineering College (class of 2027) and work as a software development engineer intern at Firstsource, in Chennai.
 
-## 🛠️ Tech Stack
+**Failure should be a state, not a surprise.** Queues, retries, explicit statuses, workers that can safely run twice.<br>
+**Models propose; code decides.** LLMs belong inside systems that can be tested and audited.<br>
+**Own the whole path.** Schema, API, client, container, cloud.
 
-<table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark"/></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark"/></td></tr>
-<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark"/></td></tr>
-<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&theme=dark"/></td></tr>
-<tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=azure,docker,git,github&theme=dark"/></td></tr>
-</table>
+## 01 — Now
 
-| Domain | Focus | Level |
-|:---|:---|:---:|
-| **Backend & APIs** | Microservices, RESTful APIs, Node.js, Django | `90%` |
-| **Full-Stack Development** | React, Next.js, TypeScript, Scalable Web Apps | `80%` |
-| **AI / Agent Systems** | Multi-Agent Workflows, LLM Applications, Lyzr AI | `75%` |
-| **Cloud (Azure)** | Microsoft Azure, Containerization, Cloud Deployments | `65%` |
-| **DevOps / CI-CD** | GitHub Actions, Docker, CI/CD Automation | `60%` |
+**At Firstsource**, building LLM agents, agent-to-agent integrations and the full-stack applications around them, deployed on Azure. That work stays private; everything below is my own.<br>
+**Upstream**, contributing to [django-modern-rest](https://github.com/wemake-services/django-modern-rest), a typed, async REST framework for Django.<br>
+**Lately**, finalist at Smart India Hackathon 2026, after reaching the top 100 in 2025.
 
-<br/>
+## 02 — Selected work
 
-## 🤖 AI / ML Focus
+### Smart Attendance
 
-I build AI that's woven into real software systems — not bolted on as a demo.
+<sub>2026 · team of two · Django, PostgreSQL, InsightFace, ONNX Runtime, OpenCV, React · private repository</sub>
 
-| Area | Experience |
-|---|---|
-| 🤖 AI Applications | Agentic apps built on Lyzr AI, deployed in production workflows |
-| 🔗 Multi-Agent Systems | Agent-to-Agent (A2A) communication between Lyzr agents & GitHub Copilot |
-| 🧠 NLP | Transformer-based lyric & text processing |
-| 🎵 Recommendation Systems | Emotion-aware music recommendation engine |
-| 😊 Emotion Classification | Multi-class emotion detection models |
-| 🔄 Reinforcement Learning | Recommendation tuning from live user interaction |
-| 🌍 Multilingual AI | Cross-language lyric emotion detection |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/attendance-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects/attendance-light.svg">
+  <img alt="Pipeline: in-browser BlazeFace gate, face detection on the GPU, ArcFace 512-dimensional match, liveness checks from four OpenCV heuristics and two MiniFASNet models, attendance with an integrity score." src="assets/projects/attendance-light.svg" width="100%">
+</picture>
 
-<br/>
+Attendance by face at a classroom kiosk, or by a rotating, HMAC-signed QR code confirmed with the student's college Google account. The hard part is the kiosk, because a photo of a face on a phone is still a face. After a face matches a 512-d ArcFace embedding, it must also pass a liveness check on three consecutive frames: four OpenCV checks (texture, edge density, moiré via FFT, phone borders via Hough lines) run in parallel with two MiniFASNet models, and any failure resets the count. Running detection and recognition on the GPU instead of the CPU cut each frame from about 1.5 s to about 50 ms, 25–34× faster on our test images.
 
-## 🚀 Featured Projects
+My part: the backend, the recognition and anti-spoofing pipeline, analytics with integrity scores and risk warnings, and the benchmarks. My teammate built the QR flow.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Fraud investigation agent
 
-### 🎵 Emotion-Aware Music Recommender
-AI system that reads song lyrics, detects emotional patterns, and recommends music by mood.
-- Custom emotion classification model
-- Mood-based recommendation engine
-- RL-driven recommendation improvement
-- Multilingual lyric processing
+<sub>2026 · team of three · Python, FastAPI, TigerGraph, Groq, React + TypeScript · [repository](https://github.com/ganesan33/AcentraHealth)</sub>
 
-`Node.js` `Express` `Python` `Transformers` `Scikit-learn`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/fraud-agent-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects/fraud-agent-light.svg">
+  <img alt="Pipeline: TigerGraph multi-hop traversal, case-scoped evidence, LLM reasoning, deterministic R1 to R10 policy rules, verdict and SAR with audit trail." src="assets/projects/fraud-agent-light.svg" width="100%">
+</picture>
 
-</td>
-<td width="50%" valign="top">
+An agent walks a TigerGraph fraud graph several hops out from a disputed case and has an LLM reason over what it finds. The model never gets the last word: a deterministic R1–R10 policy layer sets the verdict, so every outcome traces back to a named rule, and tests guard grounding and case isolation.
 
-### 📚 eduFlow — E-Learning Platform
-Full-stack platform focused on secure auth, course management, and automated delivery.
-- Secure authentication + email verification
-- Course management workflows
-- CI/CD pipeline via Azure DevOps
+My part: the first FastAPI backend, and the R1–R10 rule engine with its registry and unit tests.
 
-`React` `Node.js` `Express` `MongoDB` `Azure DevOps`
+### EduFlow
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<sub>2025–26 · solo · Node.js, Express, MongoDB, Redis, React, Kotlin, Azure · [web](https://github.com/ganesan33/eduflow) · [API v2](https://github.com/ganesan33/backend-) · [Android](https://github.com/ganesan33/Eduflow-Mobile-app)</sub>
 
-### 🚌 NFC Bus Tracking System
-Real-time student transportation system pairing web tech with ESP32 + NFC hardware.
-- NFC-based student check-in
-- Live bus & route tracking
-- Seat availability monitoring
-- Real-time push notifications
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/eduflow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects/eduflow-light.svg">
+  <img alt="Pipeline: Express upload API, BullMQ queue on Redis, ffmpeg transcoding worker, Azure Blob Storage, player streaming with HTTP range requests." src="assets/projects/eduflow-light.svg" width="100%">
+</picture>
 
-`React` `Flask` `Firebase` `ESP32` `NFC`
+A course platform that turned out to be mostly a video problem. Uploads go onto a BullMQ queue; a separate worker transcodes them with ffmpeg, retries with exponential backoff, and records each video's status so the interface tells the truth. Playback streams from Azure Blob Storage with range requests, so seeking works. The first version ships through an Azure DevOps pipeline to App Service; the second API stores refresh tokens only as hashes and serves a native Kotlin client.
 
-</td>
-<td width="50%" valign="top">
+### Also
 
-### ♿ ClearComm — Accessible Comms
-Real-time communication platform built around assistive technology.
-- WebRTC video + WebSocket messaging
-- Speech-to-text / text-to-speech
-- Accessibility-first UX
+**StockSense** <sub>2026 · team of four · FastAPI, PostgreSQL, Redis, React</sub><br>
+Inventory management where every stock change is a signed entry in an auditable ledger, and only validation posts stock. I built the receipts flow and its tests, an operation-summary endpoint, and most of the operations and dashboard screens.
 
-`React` `Node.js` `WebRTC` `WebSockets`
+**A CSRF fix upstream** <sub>2026 · django-modern-rest · [merged](https://github.com/wemake-services/django-modern-rest/pull/1718)</sub><br>
+The framework's OpenAPI schema declared the CSRF cookie but not the header Django actually checks, so clients generated from it had no way to know they must send `X-CSRFToken`. I added the header scheme across its cookie-auth classes, with docs and snapshot tests.
 
-</td>
-</tr>
-</table>
+## 03 — Rhythm
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity/rhythm-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity/rhythm-light.svg">
+  <img alt="Contribution rhythm, Nov 2025 — Nov 2026: 307 public contributions over 69 active days; longest streak 10 days; busiest month Oct 2026 with 77. Commits by repository: practice (27), eduflow (22), backend- (17), AcentraHealth (5)." src="assets/activity/rhythm-light.svg" width="100%">
+</picture>
 
-## 💼 Experience
+<sub>Bars are weekly totals; dots are days. Drawn from GitHub's public contribution calendar and REST API by <a href="scripts/build-activity.mjs">scripts/build-activity.mjs</a> and redrawn daily by a workflow.</sub>
 
-**Software Development Engineer Intern** — Firstsource  
-*December 2025 – Present*
+<!-- rhythm:table -->
+<details>
+<summary><sub>The same data as a table</sub></summary>
 
-- 🤖 Built AI agents for interview automation, personal assistance, daily news, and tutoring using **Lyzr AI**
-- 🌐 Developed a full-stack exit interview system with **Next.js, Django & PostgreSQL**, including multi-agent integration
-- 🔗 Implemented **Agent-to-Agent (A2A)** communication between Lyzr agents and GitHub Copilot in **Node.js**
-- ⚙️ Improved SharePoint workflows and enterprise process automation
-- ☁️ Deployed and maintained applications on **Microsoft Azure**
+| Month | Contributions | Active days |
+|:--|--:|--:|
+| Nov 2025 | 0 | 0 |
+| Dec 2025 | 29 | 3 |
+| Jan 2026 | 27 | 9 |
+| Feb 2026 | 23 | 6 |
+| Mar 2026 | 19 | 4 |
+| Apr 2026 | 30 | 6 |
+| May 2026 | 7 | 3 |
+| Jun 2026 | 0 | 0 |
+| Jul 2026 | 0 | 0 |
+| Aug 2026 | 8 | 5 |
+| Sep 2026 | 73 | 9 |
+| Oct 2026 | 77 | 16 |
+| Nov 2026 | 14 | 8 |
 
-`Next.js` `Django` `Node.js` `PostgreSQL` `Lyzr AI` `Azure` `GitHub Copilot`
+| Repository | Commits, last 12 months |
+|:--|--:|
+| practice | 27 |
+| eduflow | 22 |
+| backend- | 17 |
+| AcentraHealth | 5 |
 
-<br/>
+</details>
+<!-- /rhythm:table -->
 
-## 🏆 Hackathons
+## 04 — Contact
 
-| Event | Result |
-|---|---|
-| Smart India Hackathon 2026 | 🥇 **Finalist** |
-| Smart India Hackathon 2025 | 🏅 **Top 100 teams** |
+Email is the fastest way to reach me: [ganesanz3tg@gmail.com](mailto:ganesanz3tg@gmail.com). I'm also on [LinkedIn](https://www.linkedin.com/in/ganesan-g-14b1852a2/).
 
-<br/>
+<br>
 
-## 🧭 How I Build
-
-```mermaid
-flowchart TD
-    A[Problem Definition] --> B[Architecture & Tech Choices]
-    B --> C[Development<br/>Frontend + Backend + AI]
-    C --> D[Testing & Integration]
-    D --> E[Deployment · Azure]
-    E --> F[Feedback & Iteration]
-    F --> A
-
-    style A fill:#1B2432,stroke:#F2B441,color:#C9D1D9
-    style B fill:#1B2432,stroke:#6FD6C4,color:#C9D1D9
-    style C fill:#1B2432,stroke:#F27D6F,color:#C9D1D9
-    style D fill:#1B2432,stroke:#F2B441,color:#C9D1D9
-    style E fill:#1B2432,stroke:#6FD6C4,color:#C9D1D9
-    style F fill:#1B2432,stroke:#F27D6F,color:#C9D1D9
-```
-
-> **Build useful software, understand the systems behind it, keep improving.**
-
-<br/>
-
-## 🌱 Beyond Code
-
-Learning how systems work internally · Designing practical applications · Experimenting with AI · Turning ideas into working products · Collaborating on teams · Competing in hackathons
-
-<br/>
-
-## 🤝 Let's Connect
-
-Interested in `Software Engineering` · `Full-Stack Dev` · `AI Applications` · `Backend Systems` · `Cloud` · `Hackathons` · `Open Source`
-
-<div align="center">
-
-<a href="https://github.com/ganesan33"><img src="https://img.shields.io/badge/GitHub-View_Profile-0F1115?style=for-the-badge&logo=github&logoColor=F2B441&labelColor=1B2432"/></a>
-<a href="https://www.linkedin.com/in/ganesan-g-14b1852a2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0F1115?style=for-the-badge&logo=linkedin&logoColor=6FD6C4&labelColor=1B2432"/></a>
-<a href="mailto:ganesanz3tg@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0F1115?style=for-the-badge&logo=gmail&logoColor=F27D6F&labelColor=1B2432"/></a>
-
-<br/><br/>
-
-### Build → Learn → Improve → Repeat
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1115,50:1B2432,100:0F1115&height=130&section=footer"/>
-
-</div>
-
-
+<sub>Working set: TypeScript, Python, Java, Kotlin · React, Next.js, Node.js, Django, FastAPI · PostgreSQL, MongoDB, Redis · Azure, Docker.<br>
+Set in your system's serif and monospace. No third-party widgets: every image on this page is an SVG in this repository.</sub>
